@@ -1,6 +1,6 @@
 # EFD-Nose — Early Fire Detection Nose for Human Space Capsules
 
-An ESP32-based electronic "nose" that combines a thermal infrared array (MLX90640) with a PID gas sensor (MiniPID2) to detect the earliest signatures of an overheat/fire event inside a sealed crew cabin — before it becomes a visible flame. This work was developed for human spaceflight applications and published in *IEEE Aerospace and Electronic Systems Magazine* (2025).
+An ESP32-based electronic "nose" that combines a thermal infrared array (MLX90640) with a PID gas sensor (MiniPID2) to detect the earliest signatures of an overheat/fire event inside a sealed crew cabin — before it becomes a visible flame. This work was developed for human spaceflight applications under an ISRO-sponsored (RESPOND) project, originally presented at the 2024 IEEE Space, Aerospace and Defence Conference (SPACE) and later extended into a journal article in *IEEE Aerospace and Electronic Systems Magazine* (2025).
 
 ## Overview
 
@@ -37,12 +37,30 @@ A state-of-the-art comparison against other electronic-nose / fire-detection app
 
 ## Presentations
 
-- [`docs/presentation/ieeespace2024_slides.pptx`](docs/presentation/ieeespace2024_slides.pptx) — slides presented at IEEE Aerospace Conference 2024
-- [`docs/presentation/speaker_notes_ieee_space.pdf`](docs/presentation/speaker_notes_ieee_space.pdf) — accompanying speaker notes
+- [`docs/presentation/ieeespace2024_slides.pptx`](docs/presentation/ieeespace2024_slides.pptx) — slides presented at the 2024 IEEE Space, Aerospace and Defence Conference (SPACE) for the conference paper below
 
-## Publication
+## Publications
 
-This work is published as:
+This work has been published as:
+
+### Conference paper (original work)
+
+> Badrisha M, H. M. Gawas, A. Gupta, P. Sharma and M. J, "Design and Evaluation of an Early Fire Detector for Human Space Capsule," 2024 IEEE Space, Aerospace and Defence Conference (SPACE), 2024, pp. 833-836, doi: [10.1109/SPACE63117.2024.10668091](https://doi.org/10.1109/SPACE63117.2024.10668091).
+
+```bibtex
+@INPROCEEDINGS{10668091,
+  author={M, Badrisha and Gawas, Hrishikesh Milind and Gupta, Akash and Sharma, Payal and J, Manikandan},
+  booktitle={2024 IEEE Space, Aerospace and Defence Conference (SPACE)},
+  title={Design and Evaluation of an Early Fire Detector for Human Space Capsule},
+  year={2024},
+  volume={},
+  number={},
+  pages={833-836},
+  keywords={Volatile organic compounds;Fire extinguishers;Collaboration;Detectors;Aerospace safety;Sparks;Early Fire Detection;Human Space Capsule;VOC Detection;Fire Safety},
+  doi={10.1109/SPACE63117.2024.10668091}}
+```
+
+### Journal article (extended work)
 
 > S. Kumar, H. M. Gawas, A. Gupta, P. Sharma and M. J, "Design and Development of an Early Fire Detection Nose (EFD-Nose) for Human Space Capsule," in *IEEE Aerospace and Electronic Systems Magazine*, vol. 40, no. 11, pp. 58-69, 2025, doi: [10.1109/MAES.2025.3580516](https://doi.org/10.1109/MAES.2025.3580516).
 

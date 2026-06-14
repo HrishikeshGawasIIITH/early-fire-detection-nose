@@ -1,8 +1,10 @@
 cff-version: 1.2.0
-message: "If you use this work, please cite the following article."
+message: "If you use this work, please cite the following paper(s)."
 type: software
 title: "EFD-Nose: Early Fire Detection Nose for Human Space Capsule"
 authors:
+  - family-names: "M"
+    given-names: "Badrisha"
   - family-names: "Kumar"
     given-names: "Sanchit"
   - family-names: "Gawas"
@@ -14,23 +16,43 @@ authors:
   - family-names: "J"
     given-names: "Manikandan"
 preferred-citation:
-  type: article
-  title: "Design and Development of an Early Fire Detection Nose (EFD-Nose) for Human Space Capsule"
+  type: conference-paper
+  title: "Design and Evaluation of an Early Fire Detector for Human Space Capsule"
   authors:
-    - family-names: "Kumar"
-      given-names: "Sanchit"
+    - family-names: "M"
+      given-names: "Badrisha"
     - family-names: "Gawas"
-      given-names: "Hrishikesh M"
+      given-names: "Hrishikesh Milind"
     - family-names: "Gupta"
       given-names: "Akash"
     - family-names: "Sharma"
       given-names: "Payal"
     - family-names: "J"
       given-names: "Manikandan"
-  journal: "IEEE Aerospace and Electronic Systems Magazine"
-  volume: 40
-  issue: 11
-  start: 58
-  end: 69
-  year: 2025
-  doi: "10.1109/MAES.2025.3580516"
+  collection-title: "2024 IEEE Space, Aerospace and Defence Conference (SPACE)"
+  start: 833
+  end: 836
+  year: 2024
+  doi: "10.1109/SPACE63117.2024.10668091"
+references:
+  - type: article
+    title: "Design and Development of an Early Fire Detection Nose (EFD-Nose) for Human Space Capsule"
+    authors:
+      - family-names: "Kumar"
+        given-names: "Sanchit"
+      - family-names: "Gawas"
+        given-names: "Hrishikesh M"
+      - family-names: "Gupta"
+        given-names: "Akash"
+      - family-names: "Sharma"
+        given-names: "Payal"
+      - family-names: "J"
+        given-names: "Manikandan"
+    journal: "IEEE Aerospace and Electronic Systems Magazine"
+    volume: 40
+    issue: 11
+    start: 58
+    end: 69
+    year: 2025
+    doi: "10.1109/MAES.2025.3580516"
+    notes: "Extended journal version of the preferred conference paper."
