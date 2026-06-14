@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the following article."
+type: software
+title: "EFD-Nose: Early Fire Detection Nose for Human Space Capsule"
+authors:
+  - family-names: "Kumar"
+    given-names: "Sanchit"
+  - family-names: "Gawas"
+    given-names: "Hrishikesh M"
+  - family-names: "Gupta"
+    given-names: "Akash"
+  - family-names: "Sharma"
+    given-names: "Payal"
+  - family-names: "J"
+    given-names: "Manikandan"
+preferred-citation:
+  type: article
+  title: "Design and Development of an Early Fire Detection Nose (EFD-Nose) for Human Space Capsule"
+  authors:
+    - family-names: "Kumar"
+      given-names: "Sanchit"
+    - family-names: "Gawas"
+      given-names: "Hrishikesh M"
+    - family-names: "Gupta"
+      given-names: "Akash"
+    - family-names: "Sharma"
+      given-names: "Payal"
+    - family-names: "J"
+      given-names: "Manikandan"
+  journal: "IEEE Aerospace and Electronic Systems Magazine"
+  volume: 40
+  issue: 11
+  start: 58
+  end: 69
+  year: 2025
+  doi: "10.1109/MAES.2025.3580516"
